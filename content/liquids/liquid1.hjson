@@ -5,5 +5,5 @@ flammability: 0
 heatCapacity:0.4
 viscosity:1
 explosiveness:0
-effect:"launch"
+effect:"boss"
 color:"#596ab8"
