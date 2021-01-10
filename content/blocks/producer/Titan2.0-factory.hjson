@@ -1,0 +1,27 @@
+type:GenericSmelter
+name:"Титан 2.0 завод"
+description:"очень много предметов...."
+outputItem: titanium2/1
+size:2
+hasPower:true
+hasItems:true
+craftTime:40
+updateEffect:steam
+itemCapacity:10
+consumes:{
+power:0.9
+items:{items:[
+phase-fabric/1
+titanium/8
+thorium/2
+sand/2
+]}}
+requirements:[
+copper/30
+phase-fabric/25
+thorium/20
+lead/25
+titanium/2
+]
+category:crafting
+research: obsidian-factory

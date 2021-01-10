@@ -1,0 +1,22 @@
+name: Обсидиановый Гидронасос
+description: Гидронасос. берет обсидиан для того чтобы авто статически менять лезвие
+type: SolidPump
+health: 1000
+requirements: [
+lead/100
+obsidian/100
+titanium/100
+copper/100
+]
+hasLiquids: true
+liquidCapacity: 10
+result: water
+pumpAmount: 0.75
+size: 2
+rotateSpeed: 5
+attribute: water
+consumes:{
+power: 0.9
+}
+category: liquid
+research:  liquid-tank

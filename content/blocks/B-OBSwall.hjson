@@ -1,0 +1,11 @@
+name:"большая Обсидановая стена"
+description:" Очень мощная защита."
+type:Wall
+health:2460
+size:2
+requirements:[
+obsidian/24
+titanium2/24
+]
+category:defense
+research: titanium-wall-large

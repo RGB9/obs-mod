@@ -1,0 +1,9 @@
+name:"Вода из северного полюса"
+description:"Самая полезная жидкость.\nОбычно используется для охлаждения машин и переработки отходов."
+temperature:0
+flammability: 0
+heatCapacity:0.4
+viscosity:0.0
+explosiveness:0
+effect:"boss"
+color:"#ffffff"

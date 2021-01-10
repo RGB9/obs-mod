@@ -1,0 +1,8 @@
+type:material
+name: "Титан 2.0"
+description: "Материал из ада. Горючий,твердый и радиоактивный, зато Титан."
+color: "#000031"
+radioactivity: 0.9
+explosiveness:0.9
+flammability:0.9
+hardness: 3

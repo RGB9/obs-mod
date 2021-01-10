@@ -1,0 +1,26 @@
+name: Титан2.0 Регенератор
+description: .
+type: MendProjector
+size: 2
+category: effect
+requirements: [
+lead/30
+titanium2/30
+copper/25
+]
+consumes: {
+power:0.3
+items:{
+optional: false
+booster: true
+items:[obsidian/1]
+}
+}
+size: 2
+reload: 100
+range: 200
+healPercent: 6
+phaseBoost: 6
+phaseRangeBoost: 30
+health: 80
+research: Titan2.0-factory

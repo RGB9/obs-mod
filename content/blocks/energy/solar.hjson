@@ -1,0 +1,14 @@
+type: SolarGenerator
+name:Железная Солнечная панель
+description: Из-за того что корпус из железа генерация больше. железо греет и оно тоже выделяет энергию
+size: 2
+health: 40
+powerProduction: 0.8
+requirements: [
+lead/10
+silicon/15
+titanium/20
+ironitem/30
+]
+category: power
+research: solar-panel

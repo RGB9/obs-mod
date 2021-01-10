@@ -1,0 +1,34 @@
+type: ImpactReactor
+name: Титан2.0 реактор
+description: Термоядерный реаактор на Титан2.0
+itemCapacity: 25
+size: 4
+health: 420
+hasItems: true
+hasLiquids: true
+powerProduction: 200
+plasmas: 4
+explosionDamage: 50000
+explosionRadius: 200
+plasma1: BF3FB3FF
+plasma2: BF3FB3FF 
+plasma3: BF3FB3FF
+plasma4: BF3FB3FF
+consumes: {
+
+power: 166.666666
+liquid: liquid/0.025
+
+}
+requirements: [
+copper/200
+lead/200
+obsidian/300
+ironitem/500
+metaglass/250
+titanium2/400
+]
+category: power
+research: impact-reactor
+idleSound: respawning
+idleSoundVolume: 0.05

@@ -1,0 +1,8 @@
+type:material
+name: "obsidian"
+description: "."
+color: "#0427FF"
+radioactivity: 0.0
+explosiveness:0.0
+flammability:0.0
+hardness: 2

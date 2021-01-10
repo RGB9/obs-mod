@@ -1,0 +1,9 @@
+name:"обсидиановая смесь"
+description:"Прячется глубоко под землёй. через улучшенную печь обсидиана можно обучить обсидиан."
+temperature:0.5
+flammability: 0
+heatCapacity:0.4
+viscosity:0.5
+explosiveness:0
+effect:"boss"
+color:"#332970"

@@ -1,0 +1,9 @@
+name:"Вода из гейзера"
+description:"Самая полезная жидкость.\nОбычно используется для охлаждения машин и переработки отходов."
+temperature:99
+flammability: 0
+heatCapacity:0.4
+viscosity:1
+explosiveness:0
+effect:"launch"
+color:"#596ab8"

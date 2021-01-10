@@ -1,0 +1,14 @@
+name: Обсидиановый Жидкостный бак
+description: .
+type: liquidRouter
+size: 3
+hasLiquids: true
+liquidCapacity: 10000
+category: liquid
+health: 2000
+requirements: [
+metaglass/100
+lead/100
+obsidian/200
+]
+research: router

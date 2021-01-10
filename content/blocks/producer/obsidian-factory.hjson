@@ -1,0 +1,23 @@
+type:GenericSmelter
+name:"obsidian smelter"
+description:" iron + titanium = obsidian"
+outputItem: obsidian/1
+size:2
+hasPower:true
+hasItems:true
+craftTime:40
+updateEffect:steam
+itemCapacity:100
+consumes:{
+power:0.5
+items:{items:[
+ironitem/2
+titanium/2
+]}}
+requirements:[
+ironitem/30
+lead/40
+titanium/50
+]
+category:crafting
+research: iron-factory
