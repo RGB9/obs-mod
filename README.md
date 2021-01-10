@@ -8,7 +8,8 @@ Includes:
 
 - Liquids. 
 This mod will simplify or complicate your game. 
-Download and see for yourself that it is cool!.
+Download and see for yourself that it is cool!
+
 --
 - Creator:Nikita Serkov.
 - Coder: Nikita Serkov↑
