@@ -1,21 +1,19 @@
-# MineralMod 
-This mod will allow you to immerse yourself in the world of minerals and mechanisms. 
-This mod adds:
+# Obisdian-mod
 
--Drills.
+Includes:
 
--Plants.
+- Many plants
 
--Conveyors.
+-Resources
 
--Reactors and solar panels. 
+-Liquids. 
+This mod will simplify or complicate your game. 
+Download and see for yourself that it is cool!.
 
--Accumulators
-
--Containers
-
--As well as basic routing items.
-
-On cooperation issues write in private messages in vk: 
-https://vk.com/theskyfather
-Later I'll add a tree of research...
+--
+Creator:Nikita Serkov.
+Coder: Nikita Serkov↑
+Ideas: Nikita Serkov ↑
+Debagging: theskyfather or Max Bogrov.
+Sprites : Alexander Fedorov, @Mr_usb (VK)
+--
