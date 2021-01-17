@@ -1,0 +1,9 @@
+type: material
+name: Nitronium
+description: A very infusible resource.
+hardness: 4
+flammability: 0.2
+radioactivity: 3.5
+cost: 2
+color: FFC0CB
+research: plasteel

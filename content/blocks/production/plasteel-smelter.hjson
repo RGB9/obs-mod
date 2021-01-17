@@ -1,0 +1,31 @@
+type: GenericSmelter
+name: Plasteel smelter
+description: Combines Graphite,Titanium and Plastanium to produce Plasteel.
+health: 80
+liquidCapacity: 0
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 100
+updateEffect: plasticburn
+consumes: {
+  power: 2
+    items:{
+     items:[
+      graphite/2
+      plastanium/3
+      titanium/2
+      ]
+   }
+}
+requirements: [
+  titanium/150
+  thorium/100
+  silicon/70
+]
+category: crafting
+research: alloy-smelter
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: plasteel/2

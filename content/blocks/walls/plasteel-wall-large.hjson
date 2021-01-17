@@ -1,0 +1,9 @@
+type: Wall
+name: Plasteel wall large
+health: 3980
+size: 2
+requirements: [
+	plasteel/24
+    ]
+    category: defense
+    research: plasteel-wall

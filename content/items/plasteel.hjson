@@ -1,0 +1,7 @@
+type: material
+name: Plasteel
+description: A very infusible resource.
+hardness: 4
+cost: 2
+color: 120A2B
+research: titanium

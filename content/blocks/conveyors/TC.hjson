@@ -1,7 +1,7 @@
 type: Conveyor
 name: Титан 2.0 конвеер
 description: ""
-health:45
+health:1
 requirements:[
 copper/1
 lead/6
@@ -9,5 +9,5 @@ ironitem/5
 titanium2/3
 ]
 category: distribution
-speed: 0.10
+speed: 20
 research: titanium-conveyor

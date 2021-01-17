@@ -1,0 +1,12 @@
+name: Гигантский Маршрутизатор
+description: Передает предметы
+type: router
+size: 5
+health: 100
+research: conveyor
+category: distribution
+requirements:[
+lead/200
+copper/100
+titanium/40
+]

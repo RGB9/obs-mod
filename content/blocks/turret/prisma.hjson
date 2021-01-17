@@ -1,0 +1,59 @@
+{
+    type: ItemTurret
+    name: "Thunderbird"
+    description: "-"
+    health: 1400
+    size: 4
+    recoilAmount: 0
+    reloadTime: 30
+    range: 250
+    shootCone: 10
+    alternate: true
+    ammoUseEffect: casing3
+    targetGround: true
+    inaccuracy: 0
+    shots: 2
+    rotateSpeed: 3.3
+    ammoTypes: {
+        pyratite: {
+            lifetime: 130
+            speed: 4.0
+            damage: 70
+            reloadMultiplier: 1.0
+            width: 13
+            height: 15
+            shootEffect: shootBig
+            smokeEffect: shootBigSmoke
+            type: missileBulletType
+            splashDamageRadius: 40
+            splashDamage: 20
+            ammoMultiplier: 1
+            backColor: FF8C00
+            frontColor: FF8C00
+            status: burning
+        }
+        ironitem: {
+            lifetime: 130
+            speed: 5.0
+            damage: 60
+            reloadMultiplier: 1.2
+            width: 13
+            height: 15
+            shootEffect: shootBig
+            smokeEffect: shootBigSmoke
+            type: missileBulletType
+            ammoMultiplier: 1
+            backColor: FFCOCB
+            frontColor: FFCOCB
+        }
+    }
+    coolantMultiplier: 0.7
+    requirements: [
+       copper/300
+       graphite/260
+       titanium/285
+       surge-alloy/200
+    ]
+    category: turret
+    research: thunderbird
+}

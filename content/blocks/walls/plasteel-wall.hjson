@@ -1,0 +1,9 @@
+type: Wall
+name: Plasteel wall
+health: 1500
+size: 1
+requirements: [
+	plasteel/6
+    ]
+    category: defense
+    research: thorium-wall

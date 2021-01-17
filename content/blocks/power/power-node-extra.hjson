@@ -1,0 +1,19 @@
+ name: Power node extra
+	description: ._.
+	type: PowerNode
+	health: 100
+	size: 1
+	maxNodes: 25
+	laserRange: 15
+	requirements: [
+ titanium/10
+ lead/15
+ silicon/10
+ surge-alloy/1
+	]
+	category: power
+	research: power-node-large
+
+
+
+

@@ -1,0 +1,33 @@
+type: GenericSmelter
+name: Nitronium smelter
+description: Combines Graphite, Titanium and Thorium to produce Nitronium.
+health: 80
+liquidCapacity: 0
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 150
+updateEffect: plasticburn
+consumes: {
+  power: 3
+    items:{
+     items:[
+      graphite/1
+      thorium/4
+      titanium/4
+      ]
+   }
+}
+requirements: [
+  titanium/200
+ironitem/100
+  thorium/120
+  silicon/90
+  plasteel/50
+]
+category: crafting
+research: plasteel-smelter
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: nitronium/2

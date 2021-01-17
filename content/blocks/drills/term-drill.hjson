@@ -1,0 +1,29 @@
+type: Drill
+name: Termal drill
+description: -
+size: 3
+health: 350
+tier: 6
+drillTime: 150
+hasLiquids: false
+isBoostable: false
+liquidBoostIntensity: 1.23
+drawMineItem: false
+consumes: {
+  power: 5
+  liquid: {
+    liquid: water
+	amount: 0.6
+	booster: true
+  }
+ }
+
+requirements: [
+	titanium/250
+ thorium/200
+ plasteel/175
+ silicon/200
+]
+	
+category: production
+research: blast-drill

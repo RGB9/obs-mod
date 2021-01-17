@@ -1,0 +1,10 @@
+name:"Обсидановая стена"
+description:"я помешан на обсидане."
+type:Wall
+health:1240
+size:1
+requirements:[
+obsidian/6
+]
+category:defense
+research: titanium-wall

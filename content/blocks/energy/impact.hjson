@@ -16,8 +16,8 @@ plasma3: BF3FB3FF
 plasma4: BF3FB3FF
 consumes: {
 
-power: 166.666666
-liquid: liquid/0.025
+power: 100
+liquid: cryofluid/0.025
 
 }
 requirements: [
@@ -27,8 +27,9 @@ obsidian/300
 ironitem/500
 metaglass/250
 titanium2/400
+plasteel/100
 ]
 category: power
 research: impact-reactor
 idleSound: respawning
-idleSoundVolume: 0.05
+idleSoundVolume: 0.03
