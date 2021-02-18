@@ -17,7 +17,7 @@ Coder: Nikita Serkov↑
 
 Ideas: Nikita Serkov ↑
 
-Debagging: theskyfather or Max Bogrov.
+Debugging: theskyfather or Max Bogrov.
 
 Sprites : Alexander Fedorov, @Mr_usb (VK)
 
